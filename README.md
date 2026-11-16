@@ -42,7 +42,7 @@ I fix bugs upstream in tools I use: test first, small diffs, explained root caus
 
 | Project | Contribution | Status |
 |---|---|---|
-| [agno](https://github.com/agno-agi/agno) (43k★) | Azure AI Foundry Claude still defaulted to a model retiring 2026-11-30; aligned it with the Anthropic default, with a regression test ([#11702](https://github.com/agno-agi/agno/issues/11702)) | Fix ready, awaiting triage |
+| [agno](https://github.com/agno-agi/agno) (43k★) | Azure AI Foundry Claude still defaulted to a model retiring 2026-11-30; aligned it with the Anthropic default, with a regression test ([PR #11704](https://github.com/agno-agi/agno/pull/11704)) | In review |
 
 All upstream PRs: [github.com/pulls?q=author:adhikbuilds](https://github.com/pulls?q=is%3Apr+author%3Aadhikbuilds+-user%3Aadhikbuilds)
 
