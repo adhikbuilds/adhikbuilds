@@ -42,6 +42,7 @@ I fix bugs upstream in tools I use: test first, small diffs, explained root caus
 
 | Project | Contribution | Status |
 |---|---|---|
+| [LiteLLM](https://github.com/BerriAI/litellm) (63k★) | Streamed `/v1/responses` tool calls crashed the generic guardrail request and cut the stream off; now converted to the accepted shape, with a regression test ([PR #52021](https://github.com/BerriAI/litellm/pull/52021)) | In review |
 | [agno](https://github.com/agno-agi/agno) (43k★) | Azure AI Foundry Claude still defaulted to a model retiring 2026-11-30; aligned it with the Anthropic default, with a regression test ([PR #11704](https://github.com/agno-agi/agno/pull/11704)) | In review |
 
 All upstream PRs: [github.com/pulls?q=author:adhikbuilds](https://github.com/pulls?q=is%3Apr+author%3Aadhikbuilds+-user%3Aadhikbuilds)
