@@ -57,4 +57,5 @@ Python · TypeScript · FastAPI · Next.js · PostgreSQL / PostGIS · Terraform 
 
 ---
 
-<sub>Reach me through GitHub, or say hi in a PR.</sub>
+**Open to backend, infrastructure and AI engineering roles.** If you like my work, message me on GitHub or email
+**adhikagarwal16@gmail.com**.
