@@ -6,6 +6,10 @@ Most of my work sits where product meets platform: multi-tenant SaaS on Postgres
 and the delivery pipelines between them. I care about upgrade paths, blast radius, and leaving
 systems simpler than I found them.
 
+### Certifications
+
+- **Claude Certified Architect – Foundations**, Anthropic (Nov 2026). [Verify on Credly](https://www.credly.com/badges/f2c916f8-d1a1-48b5-b230-e42e7ab3898d)
+
 ### Things I've shipped recently
 
 - **Air-gapped installer for a Kubernetes platform.** Two commands from a laptop with no internet
