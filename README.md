@@ -38,7 +38,18 @@ security, Kubernetes on AWS, and CI/CD that ships on merge.
 
 ### Open source
 
-I contribute fixes upstream to tools I use. Merged and open PRs are linked [here](https://github.com/pulls?q=is%3Apr+author%3Aadhikbuilds+-user%3Aadhikbuilds).
+I fix bugs upstream in tools I use: test first, small diffs, explained root cause.
+
+| Project | Contribution | Status |
+|---|---|---|
+| [agno](https://github.com/agno-agi/agno) (43k★) | Azure AI Foundry Claude still defaulted to a model retiring 2026-11-30; aligned it with the Anthropic default, with a regression test ([#11702](https://github.com/agno-agi/agno/issues/11702)) | Fix ready, awaiting triage |
+
+All upstream PRs: [github.com/pulls?q=author:adhikbuilds](https://github.com/pulls?q=is%3Apr+author%3Aadhikbuilds+-user%3Aadhikbuilds)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adhikbuilds/adhikbuilds/output/snake-dark.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/adhikbuilds/adhikbuilds/output/snake.svg">
+</picture>
 
 ### Stack
 
