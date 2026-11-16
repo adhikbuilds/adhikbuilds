@@ -8,6 +8,10 @@ security, Kubernetes on AWS, and CI/CD that ships on merge.
 
 **Care about:** upgrade paths, blast radius, and tests that would have caught the bug.
 
+### Education
+
+- **B.E., BITS Pilani**, 2026
+
 ### Certifications
 
 - **Claude Certified Architect – Foundations**, Anthropic (Nov 2026). [Verify on Credly](https://www.credly.com/badges/f2c916f8-d1a1-48b5-b230-e42e7ab3898d)
