@@ -1,10 +1,12 @@
 ## Adhik Agarwal
 
-I build backend and infrastructure systems that keep working after the demo, the migration, and the 3am page.
+I build AI products and the infrastructure that keeps them honest in production.
 
-Most of my work sits where product meets platform: multi-tenant SaaS on Postgres, Kubernetes on AWS,
-and the delivery pipelines between them. I care about upgrade paths, blast radius, and leaving
-systems simpler than I found them.
+**Now:** LLM applications that parse messy documents (resumes, job postings, listings) into structured data,
+with spend caps, deterministic fallbacks and no invented answers. Underneath: multi-tenant Postgres with row-level
+security, Kubernetes on AWS, and CI/CD that ships on merge.
+
+**Care about:** upgrade paths, blast radius, and tests that would have caught the bug.
 
 ### Certifications
 
