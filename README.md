@@ -26,6 +26,8 @@ systems simpler than I found them.
 | | |
 |---|---|
 | **[Solum](https://github.com/adhikbuilds/solum)** | Land feasibility and development appraisal for Dubai. Live plot records, setback geometry and residual land value, with all 100k+ city plots served as vector tiles from PostGIS. |
+| **[HireLane](https://github.com/adhikbuilds/hirelane)** | Public job board built from Greenhouse, Lever and Ashby APIs, plus an AI agent that drafts applications and flags what it must not guess. TypeScript monorepo with Postgres RLS, explainable match scores and per-user LLM spend caps. |
+| **[Roofline](https://github.com/adhikbuilds/roofline)** | Rental-market explorer for Bangalore: deterministic ingestion and dedup, a fair-rent model, deal detection and commute comparison. |
 | **[WarmPath](https://github.com/adhikbuilds/warmpath)** | B2B outbound built on relationship graphs. Next.js 15 frontend with a [FastAPI intelligence service](https://github.com/adhikbuilds/warmpath-intelligence) for signals and AI-drafted warm intros. |
 
 ### Open source
