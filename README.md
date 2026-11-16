@@ -19,7 +19,7 @@ systems simpler than I found them.
   migration upgrade path that holds for old installs, not just fresh ones.
 - **Continuous delivery to EKS.** Merge to `main`, then production, with rollbacks.
 - **Cloud cleanup across AWS accounts.** Rebuilt lost Terraform state through imports,
-  tore down orphaned stacks, and recovered spend without losing anything we needed.
+  and decommissioned orphaned stacks with snapshots and backups taken first.
 
 ### Projects
 
